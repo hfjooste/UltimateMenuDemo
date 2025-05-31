@@ -1,0 +1,3 @@
+[submodule "Plugins/UltimateMenu"]
+	path = Plugins/UltimateMenu
+	url = git@github.com:hfjooste/UltimateMenu.git
